@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this lesson, we'll cover Tux, a Ruby gem, that you can use to make sure your database and ActiveRecord associations are set up properly. 
+In this lesson, we'll cover Tux, a Ruby gem, that you can use to make sure your database and ActiveRecord associations are set up properly. test
 
 ## Objectives
 
